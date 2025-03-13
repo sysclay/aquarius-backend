@@ -10,5 +10,4 @@ public class AquariusApplication extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(AquariusApplication.class, args);
 	}
-
 }
